@@ -1,0 +1,1 @@
+<% out.println("Welcome to The Anime Catalog"); %>
